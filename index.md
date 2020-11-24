@@ -1,6 +1,9 @@
 # Rockaway Beach
+
+![alt text](https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/rbmap.png "Map")
+
   
- <img> https://user-images.githubusercontent.com/73364862/99458397-77191680-28fa-11eb-8896-3d210dfb4873.png </img>
+ <img> https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/rbmap.png </img>
   
 ## Demographics/ Statistics
   
