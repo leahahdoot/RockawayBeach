@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/rbmap.png "Map")
 
-## Demographics/ Statistics
+# Demographics/ Statistics
   
   Rockaway Beach, located in Queens, New York, has a population of 21,354 individuals. 
   Its zip code is 11694. Rockaway Beach takes up 1.34 square miles, so there is roughly 
@@ -37,13 +37,13 @@
    overwhelming majority (59.21%) of people drive alone to work, 24.22% use public transit, 
    5.59% carpool, 5.79% walk, and the rest have other forms of transportation. 
   
-## Safety
+# Safety
    
    The Rockaways, as a whole, have a relatively low crime rate. The total crime rate is 26% lower 
    than the national average. In fact, property crime is 45% lower than the national average. However, 
    violent crime is 79% more than the national average which may hinder you choice to move here.
   
-## Diversity
+# Diversity
    
    Rockaway Beach has a diverse population. 73% of the population is White, 14.91% is Hispanic,
    6.01% is Black, 3.47% is Asian, 0.67% is AIAN, 0.96% is two+, and 0.97% is other. 85.31% of the 
@@ -51,7 +51,7 @@
    elsewhere, 39.86% were born in Latin America, 37.79% were born in Europe, 17.25% were born in 
    Asia, 3.79% were born in Africa, 1.15% were born in North America, and 0.16% were born in Oceana. 
   
-## Data Analysis
+# Data Analysis
   
  ![alt text](https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/analyze.png "Data")
   
