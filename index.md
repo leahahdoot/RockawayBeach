@@ -4,7 +4,7 @@
   
 ## Demographics/ Statistics
   
-<p> Rockaway Beach, located in Queens, New York, has a population of 21,354 individuals. 
+  Rockaway Beach, located in Queens, New York, has a population of 21,354 individuals. 
   Its zip code is 11694. Rockaway Beach takes up 1.34 square miles, so there is roughly 
   15,980.51 people per square mile. The median age of its residents is 48.5 such that 
   19.63% of its population is under 18 years old, 15.57% is 18-34, 44.35% is 35-64, and 
@@ -34,7 +34,7 @@
  
 ## Commute, Safety, and Diversity
    
-<p> The Q22, Q35 local bus, and the Q53 SBS serve the Rockaway Beach area. The QM16 express 
+   The Q22, Q35 local bus, and the Q53 SBS serve the Rockaway Beach area. The QM16 express 
    bus goes to Manhattan. The neighborhood's New York City Subway stations are Beach 90th 
    Street and Beach 98th Street, served by the A and S trains. The Q35 goes to the Flatbush 
    Avenue – Brooklyn College subway station (2 and 5 trains) in Midwood, Brooklyn, and the 
@@ -53,7 +53,7 @@
   
  ## Data Analysis
    
- <p> For this assignment, my goal was to present the data from the Airbnb spreadsheet using different 
+   For this assignment, my goal was to present the data from the Airbnb spreadsheet using different 
    plots to help visualize the information and statistics. I used a scatterplot, pie chart, bar graph, 
    and box plot. When creating the scatterplot, I used latitude and longitude to plot where each of 
    the listings in Rockaway Beach are. I noticed that the majority of the listings were located closer 
