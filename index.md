@@ -30,9 +30,9 @@
   occupancy were also analyzed. Rockaway Beach has about 9,492 housing units with 89.21% 
   being occupied and 10.79% being vacant. Of the occupied housing units, 53.2% were occupied 
   by owners and 46.8% were occupied by renters. Of the vacant housing units, 27.83% were for 
-  rent and 0.88% were for sale. </p>
+  rent and 0.88% were for sale. 
  
-## Commute, Safety, and Diversity
+ ## Commute, Safety, and Diversity
    
    The Q22, Q35 local bus, and the Q53 SBS serve the Rockaway Beach area. The QM16 express 
    bus goes to Manhattan. The neighborhood's New York City Subway stations are Beach 90th 
@@ -49,7 +49,7 @@
    6.01% is Black, 3.47% is Asian, 0.67% is AIAN, 0.96% is two+, and 0.97% is other. 85.31% of the 
    population was born in the United States while 14.69% is foreign born. Of the population born 
    elsewhere, 39.86% were born in Latin America, 37.79% were born in Europe, 17.25% were born in 
-   Asia, 3.79% were born in Africa, 1.15% were born in North America, and 0.16% were born in Oceana. </p>
+   Asia, 3.79% were born in Africa, 1.15% were born in North America, and 0.16% were born in Oceana. 
   
  ## Data Analysis
    
@@ -72,7 +72,7 @@
    listings are generally only a little more expensive than listings in other areas. However, because I 
    believe the median is a better indication of the center and the median is slightly lower than the mean 
    due to the 3 outliers, I would say the average price in Rockaway Beach (discounting the outliers) is 
-   very close to the average price of Queens as a whole. </p>
+   very close to the average price of Queens as a whole.
 
 
 
