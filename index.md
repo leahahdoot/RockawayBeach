@@ -2,9 +2,6 @@
 
 ![alt text](https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/rbmap.png "Map")
 
-  
- <img> https://github.com/leahahdoot/RockawayBeach/blob/gh-pages/rbmap.png </img>
-  
 ## Demographics/ Statistics
   
   Rockaway Beach, located in Queens, New York, has a population of 21,354 individuals. 
@@ -35,7 +32,7 @@
   by owners and 46.8% were occupied by renters. Of the vacant housing units, 27.83% were for 
   rent and 0.88% were for sale. 
  
- ## Commute, Safety, and Diversity
+ ## Commute
    
    The Q22, Q35 local bus, and the Q53 SBS serve the Rockaway Beach area. The QM16 express 
    bus goes to Manhattan. The neighborhood's New York City Subway stations are Beach 90th 
@@ -44,10 +41,16 @@
    Q53 SBS connects with the 61st Street – Woodside subway station (7 train) and the
    Woodside LIRR station in Woodside. The average commute to work is 47 minutes and that the 
    overwhelming majority (59.21%) of people drive alone to work, 24.22% use public transit, 
-   5.59% carpool, 5.79% walk, and the rest have other forms of transportation. The Rockaways, 
-   as a whole, have a relatively low crime rate. The total crime rate is 26% lower than the 
-   national average. In fact, property crime is 45% lower than the national average. However, 
+   5.59% carpool, 5.79% walk, and the rest have other forms of transportation. 
+  
+ ## Safety
+   
+   The Rockaways, as a whole, have a relatively low crime rate. The total crime rate is 26% lower 
+   than the national average. In fact, property crime is 45% lower than the national average. However, 
    violent crime is 79% more than the national average which may hinder you choice to move here.
+  
+ ## Diversity
+   
    Rockaway Beach has a diverse population. 73% of the population is White, 14.91% is Hispanic,
    6.01% is Black, 3.47% is Asian, 0.67% is AIAN, 0.96% is two+, and 0.97% is other. 85.31% of the 
    population was born in the United States while 14.69% is foreign born. Of the population born 
@@ -58,20 +61,29 @@
    
    For this assignment, my goal was to present the data from the Airbnb spreadsheet using different 
    plots to help visualize the information and statistics. I used a scatterplot, pie chart, bar graph, 
-   and box plot. When creating the scatterplot, I used latitude and longitude to plot where each of 
-   the listings in Rockaway Beach are. I noticed that the majority of the listings were located closer 
-   to the beach in the south and there were 3 outliers further north. It makes sense that the majority 
-   of the houses are closer to the south because this is closer to the public transportation which I 
-   learned more about in HC2 and HC3. More specifically, these houses are located closer to the Q22, 
-   Q35 local bus, and the Q53 SBS. Roughly 24.22% of residents in Rockaway Beach use public transit 
-   in their daily commute. When creating the pie chart, I was surprised to see that 75% of rentals 
-   were entire homes while 25% were private rooms. This was shocking to me because Rockaway Beach has 
-   about 9,492 housing units with 89.21% being occupied and 10.79% being vacant. Of the occupied housing 
-   units, 53.2% were occupied by owners and 46.8% were occupied by renters. Of the vacant housing units, 
-   27.83% were for rent and 0.88% were for sale. I thought the pie chart would be more evenly split.
+   and box plot. 
+   
+   When creating the scatterplot, I used latitude and longitude to plot where each of the listings in 
+   Rockaway Beach are. I noticed that the majority of the listings were located closer to the beach 
+   in the south and there were 3 outliers further north. It makes sense that the majority of the houses 
+   are closer to the south because this is closer to the public transportation which I learned more 
+   about in HC2 and HC3. More specifically, these houses are located closer to the Q22, Q35 local bus, 
+   and the Q53 SBS. Roughly 24.22% of residents in Rockaway Beach use public transit in their daily commute. 
+   
+   
+   When creating the pie chart, I was surprised to see that 75% of rentals were entire homes while 25% 
+   were private rooms. This was shocking to me because Rockaway Beach has about 9,492 housing units 
+   with 89.21% being occupied and 10.79% being vacant. Of the occupied housing units, 53.2% were 
+   occupied by owners and 46.8% were occupied by renters. Of the vacant housing units, 27.83% were 
+   for rent and 0.88% were for sale. I thought the pie chart would be more evenly split.
+   
+   
    When examining the boxplot of the rental prices in Rockaway Beach, one can notice 3 outliers which would 
    skew the mean price. For this reason, I think the median would be a better representation for the 
-   center of the data. When examining the bar graph of all Queens, it is apparent that Rockaway Beach 
+   center of the data. 
+   
+   
+   When examining the bar graph of all Queens, it is apparent that Rockaway Beach 
    listings are generally only a little more expensive than listings in other areas. However, because I 
    believe the median is a better indication of the center and the median is slightly lower than the mean 
    due to the 3 outliers, I would say the average price in Rockaway Beach (discounting the outliers) is 
