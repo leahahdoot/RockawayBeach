@@ -1,6 +1,6 @@
 # Rockaway Beach
 
-![alt text](rbmap.png "Map")
+<img src+"rbmap.png" width="400">
 
 # Demographics/ Statistics
   
