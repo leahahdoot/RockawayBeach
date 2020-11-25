@@ -53,13 +53,13 @@
   
 # Data Analysis
   
- ![alt text](analyze.png "Data")
+ <img src="analyze.png" width="400">
   
    For this assignment, my goal was to present the data from the Airbnb spreadsheet using different 
    plots to help visualize the information and statistics. I used a scatterplot, pie chart, bar graph, 
    and box plot. 
    
- ![alt text](locations.png "Scatterplot")
+ <img src="locations.png" width="400">
    
    When creating the scatterplot, I used latitude and longitude to plot where each of the listings in 
    Rockaway Beach are. I noticed that the majority of the listings were located closer to the beach 
@@ -68,21 +68,21 @@
    about in HC2 and HC3. More specifically, these houses are located closer to the Q22, Q35 local bus, 
    and the Q53 SBS. Roughly 24.22% of residents in Rockaway Beach use public transit in their daily commute. 
    
-  ![alt text](typeofrental.png "Pie Chart")
+ <img src="typeofrental.png" width="400">  
    
    When creating the pie chart, I was surprised to see that 75% of rentals were entire homes while 25% 
    were private rooms. This was shocking to me because Rockaway Beach has about 9,492 housing units 
    with 89.21% being occupied and 10.79% being vacant. Of the occupied housing units, 53.2% were 
    occupied by owners and 46.8% were occupied by renters. Of the vacant housing units, 27.83% were 
    for rent and 0.88% were for sale. I thought the pie chart would be more evenly split.
-   
-  ![alt text](rb_price.png "Box Plot")
-   
+  
+  <img src="rb_price.png" width="400">
+ 
    When examining the boxplot of the rental prices in Rockaway Beach, one can notice 3 outliers which would 
    skew the mean price. For this reason, I think the median would be a better representation for the 
    center of the data. 
    
-  ![alt text](average_price.png "Bar Graph")
+  <img src="average_price.png" width="400">
    
    When examining the bar graph of all Queens, it is apparent that Rockaway Beach listings are generally 
    only a little more expensive than listings in other areas. However, because I believe the median is 
